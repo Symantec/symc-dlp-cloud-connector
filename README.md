@@ -8,7 +8,7 @@ API/SPI schema documents.
 # Features
 Allows the client to send REST requests using a pre-defined JSON payload to a Symantec DLP Cloud Connector. Client can use alternate payloads by pointing to different files, change the user agent, provide a client certificiate for client auth. In addition the client is able to verify the validity of the server TLS certificate, and perform concurrent requests with multiple itterations.
 
-# Requierments
+# Requirements
 The following is required to be installed on the machine where the client is running from:
 
 python 2.x
