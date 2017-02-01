@@ -1,0 +1,159 @@
+{
+  "attachments": [
+    {
+      "mimeType": "text/plain",
+      "characterEncoding": "UTF-8",
+      "fileName": "example_file.txt",
+      "extracted": false,
+      "contentBlockId": "1",
+      "data": "c2FtcGxlIGRhdGEK",
+      "originalSize": ""
+    }
+  ],
+  "context": [
+    {
+      "name": "http.url",
+      "value": [
+        "https://example.com/upload"
+      ]
+    },
+    {
+      "name": "common.messageSource",
+      "value": [
+        "gatelet"
+      ]
+    },
+    {
+      "name": "network.direction",
+      "value": [
+        "upload"
+      ]
+    },
+    {
+      "name": "location.region.country",
+      "value": [
+        "Antarctica"
+      ]
+    },
+    {
+      "name": "common.dataType",
+      "value": [
+        "DIM"
+      ]
+    },
+    {
+      "name": "location.coords.latitude",
+      "value": [
+        "82.862"
+      ]
+    },
+    {
+      "name": "location.region",
+      "value": [
+        "AQ"
+      ]
+    },
+    {
+      "name": "common.user.isInternal",
+      "value": [
+        true
+      ]
+    },
+    {
+      "name": "common.application",
+      "value": [
+        "gatelet.exampleApp"
+      ]
+    },
+    {
+      "name": "network.sender.port",
+      "value": [
+        11547
+      ]
+    },
+    {
+      "name": "common.doc.type",
+      "value": [
+        "File"
+      ]
+    },
+    {
+      "name": "network.sender.ip",
+      "value": [
+        "192.168.12.12"
+      ]
+    },
+    {
+      "name": "location.coords.longitude",
+      "value": [
+        "-118.391701"
+      ]
+    },
+    {
+      "name": "common.user.name",
+      "value": [
+        "Joe Example"
+      ]
+    },
+    {
+      "name": "common.application.reportName",
+      "value": [
+        "exampleDrive"
+      ]
+    },
+    {
+      "name": "common.user.id",
+      "value": [
+        "joe_example@test.com"
+      ]
+    },
+    {
+      "name": "common.user.activityType",
+      "value": [
+        "upload"
+      ]
+    },
+    {
+      "name": "http.browser",
+      "value": [
+        "Chrome"
+      ]
+    },
+    {
+      "name": "http.cookies",
+      "value": [
+        ""
+      ]
+    },
+    {
+      "name": "network.recipient.port",
+      "value": [
+        443
+      ]
+    },
+    {
+      "name": "http.method",
+      "value": [
+        "PUT"
+      ]
+    },
+    {
+      "name": "common.authsender",
+      "value": [
+        "joe_example@test.com"
+      ]
+    },
+    {
+      "name": "http.userAgent",
+      "value": [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36"
+      ]
+    },
+    {
+      "name": "common.transactionId",
+      "value": [
+        "63b95ad0-a750-11e6-b85a-02844f8dfb17"
+      ]
+    }
+  ]
+}
