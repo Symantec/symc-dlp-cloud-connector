@@ -154,6 +154,36 @@
       "value": [
         "63b95ad0-a750-11e6-b85a-02844f8dfb17"
       ]
+    },
+    {
+      "name": "common.expectActionsAck",
+      "value": [
+        "false"
+      ]
+    },
+    {
+      "name": "client.user.id",
+      "value": [
+        "joe_example@test.com"
+      ]
+    },
+    {
+      "name": "client.user.id",
+      "value": [
+        "joe_example@test.com"
+      ]
+    },
+    {
+      "name": "client.domain",
+      "value": [
+        "test.com"
+      ]
+    },
+    {
+      "name": "common.filter",
+      "value": [
+        "REQUIRED FOR V2.0. GET THIS VALUE FROM ENFORCE 15.0+ UI"
+      ]
     }
   ]
 }
