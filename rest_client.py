@@ -52,7 +52,7 @@ parser.add_argument("-uk", "--key", action="store", dest="key", required=False,
                     help="optional: path to client key, used to override the settings file, cert must be used with key")
 parser.add_argument("-u", "--url", action="store", dest="url", required=False,
                     help="optional: path to REST server url, used to override the settings file.\n Example: "
-                         "https://example.com/V1.0/DetectionRequests")
+                         "https://example.com/v2.0/DetectionRequests")
 parser.add_argument("-i", "--iterations", action="store", dest="iterations", required=False, default=1, type=int,
                     help="optional: Default is 1. Number of times to send a request, per concurrent process. If user "
                          "specifies -c 2 -i 2 then a total of 4 requests will be sent")

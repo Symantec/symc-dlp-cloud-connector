@@ -4,7 +4,7 @@ CDS_LB='https://rest-endpoint.example.com'
 CDS_CERT='../certs/cds_cert.pem'
 CDS_KEY='../certs/cds_key.pem'
 # the endpoint url of REST server, multiple version can and will be available
-CDS_API='/v1.0/DetectionRequests'
+CDS_API='/v2.0/DetectionRequests'
 
 CDS_URL=CDS_LB+CDS_API
 
